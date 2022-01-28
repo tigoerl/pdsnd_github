@@ -114,6 +114,7 @@ def Load_Data():
             print('Sorry, your Input is wrong. Please try again.\n')
             continue # jumps back to the 'while True' line
         #code optimization....
+        
        
     print('-'*40)
 #%%            
